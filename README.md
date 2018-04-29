@@ -25,7 +25,7 @@ Design Information
 
 1.Mechanical Parts
 -------------------
-* **[Mechanical Parts Data](https://github.com/magicboxlabs/REFLO)** - Chassis, 3D print parts, Furnace
+* **[Mechanical Parts Data](https://github.com/magicboxlabs/REFLO/tree/master/parts)** - Chassis, 3D print parts, Furnace
 
 2.PWB
 -------------------
