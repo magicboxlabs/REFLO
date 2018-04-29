@@ -29,7 +29,7 @@ Design Information
 
 2.PWB
 -------------------
-* **[PWB Data](https://github.com/magicboxlabs/REFLO)** - Gerber Data, Parts List
+* **[PWB Data](https://github.com/magicboxlabs/REFLO/tree/master/gerber)** - Gerber Data, Parts List
 
 3.Software
 -------------------
