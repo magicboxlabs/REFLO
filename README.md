@@ -2,7 +2,7 @@ Open the Box
 ===================
 
 
-1.Put Heater element and Sensor
+1.Set Heater Element and Sensor
 -------------------
 
 2.Set Control Board
