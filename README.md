@@ -34,4 +34,4 @@ Design Information
 
 3.Software
 -------------------
-* **[Source Code](https://github.com/magicboxlabs/REFLO)** - Control Software Source Code
+* **[Source Code](https://github.com/magicboxlabs/REFLO/tree/master/software)** - Control Software Source Code
