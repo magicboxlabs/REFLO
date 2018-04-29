@@ -13,7 +13,8 @@ Open the Box
 
 4.Setup Software
 -------------------
-
+* **[iOS](https://itunes.apple.com/us/app/simblee-for-mobile/id1009048292?mt=8)** - iOS Mobile App. 
+* **[Android](https://play.google.com/store/apps/details?id=com.simblee.simbleeformobile&hl=en)** - Android Mobile App. 
 
 5.UI operation
 -------------------
