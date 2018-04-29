@@ -35,3 +35,4 @@ Design Information
 -------------------
 * **[Simblee](https://www.simblee.com/Simblee_Quickstart_Guide_v1.1.0.pdf)** - Arduino IDE for Simblee setup
 * **[Library](https://github.com/FastLED/FastLED)** - RGB RED (FastLED) library
+* **[Source Code](https://github.com/magicboxlabs/REFLO)** - Control Software Source Code
