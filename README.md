@@ -8,7 +8,7 @@ Open the Box
 2.Set Control Board
 -------------------
 
-3.Set Furnace and Heater Metal
+3.Set Furnace and Heat Metal
 -------------------
 
 4.Setup Software
@@ -25,9 +25,11 @@ Design Information
 
 1.Mechanical Parts
 -------------------
+* **[Mechanical Parts Data](https://github.com/magicboxlabs/REFLO)** - Chassis, 3D print parts, Furnace
 
 2.PWB
 -------------------
+* **[PWB Data](https://github.com/magicboxlabs/REFLO)** - Gerber Data, Parts List
 
 3.Software
 -------------------
