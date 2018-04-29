@@ -31,3 +31,5 @@ Design Information
 
 3.Software
 -------------------
+* **[Simblee](https://www.simblee.com/Simblee_Quickstart_Guide_v1.1.0.pdf)** - Arduino IDE for Simblee setup
+* **[Library](https://github.com/FastLED/FastLED)** - RGB RED (FastLED) library
