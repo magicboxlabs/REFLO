@@ -29,6 +29,7 @@ Design Information
 
 2.PWB
 -------------------
+* **[Schematic Drawing](https://github.com/magicboxlabs/REFLO/blob/master/schematic/REFLO%20schematic.pdf)** - Gerber Data, Parts List
 * **[PWB Data](https://github.com/magicboxlabs/REFLO/tree/master/gerber)** - Gerber Data, Parts List
 
 3.Software
