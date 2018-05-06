@@ -11,12 +11,12 @@ Open the Box
 
 3.Setup Software
 -------------------
-* **[iOS](https://itunes.apple.com/us/app/simblee-for-mobile/id1009048292?mt=8)** - iOS Mobile App. 
-* **[Android](https://play.google.com/store/apps/details?id=com.simblee.simbleeformobile&hl=en)** - Android Mobile App. 
+* **[iOS](https://itunes.apple.com/us/app/simblee-for-mobile/id1009048292?mt=8)** - iOS Mobile App
+* **[Android](https://play.google.com/store/apps/details?id=com.simblee.simbleeformobile&hl=en)** - Android Mobile App
 
 4.How to Operate
 -------------------
-
+* **[Operation guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/Assembly.pdf)** - UI Operation
 
 Design Information
 ===================
