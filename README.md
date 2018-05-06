@@ -1,16 +1,20 @@
 Open the Box
 ===================
 
-1.Setup REFLO
+1.In the BOX
 -------------------
-* **[Assemble guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/Assembly.pdf)** - iOS Mobile App. 
+* **[Quick start guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/Assembly.pdf)** - Items in the box
 
-2.Setup Software
+2.Setup REFLO
+-------------------
+* **[Assemble guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/Assembly.pdf)** - Setup each modules
+
+3.Setup Software
 -------------------
 * **[iOS](https://itunes.apple.com/us/app/simblee-for-mobile/id1009048292?mt=8)** - iOS Mobile App. 
 * **[Android](https://play.google.com/store/apps/details?id=com.simblee.simbleeformobile&hl=en)** - Android Mobile App. 
 
-3.UI operation
+4.How to Operate
 -------------------
 
 
