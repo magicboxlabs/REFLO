@@ -3,7 +3,7 @@ Open the Box
 
 1.In the BOX
 -------------------
-* **[Quick start guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/Assembly.pdf)** - Items in the box
+* **[Quick start guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/openthebox.pdf)** - Items in the box
 
 2.Setup REFLO
 -------------------
