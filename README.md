@@ -38,4 +38,5 @@ Reference
 ===================
 * **[CrowdSupply REFLO](https://www.crowdsupply.com/magicbox/reflo)**
 * **[Hacksterio REFLO](https://www.hackster.io/magicbox/ble-reflow-oven-controller-reflo)**
+* **[Hacksterio SHAKEYs](https://www.hackster.io/ebaera/voice-controlled-shakeys)**
 
