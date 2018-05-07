@@ -1,4 +1,4 @@
-Setup REFLO
+Setup
 ===================
 
 1.In the BOX
