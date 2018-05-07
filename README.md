@@ -16,7 +16,7 @@ Setup
 
 4.How to Operate
 -------------------
-* **[Operation guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/Assembly.pdf)** - UI Operation
+* **[Operation guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/operation.pdf)** - UI Operation
 
 Design Information
 ===================
