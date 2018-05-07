@@ -1,4 +1,4 @@
-Open the Box
+Setup REFLO
 ===================
 
 1.In the BOX
