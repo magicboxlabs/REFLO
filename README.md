@@ -34,7 +34,7 @@ Design Information
 -------------------
 * **[Source Code](https://github.com/magicboxlabs/REFLO/tree/master/software)** - Control Software Source Code
 
-Reference Information
+Reference
 ===================
 * **[CrowdSupply REFLO](https://www.crowdsupply.com/magicbox/reflo)**
 * **[Hacksterio REFLO](https://www.hackster.io/magicbox/ble-reflow-oven-controller-reflo)**
