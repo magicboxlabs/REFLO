@@ -8,7 +8,7 @@ Setup
 2.Setup REFLO
 -------------------
 * **[Assemble guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/Assembly.pdf)** - Setup each modules
-* [Warning](https://github.com/magicboxlabs/REFLO/blob/master/Documents/warning.pdf)  - Special Attention
+* **[Warning](https://github.com/magicboxlabs/REFLO/blob/master/Documents/warning.pdf)** - Special Attention
 
 3.Setup Software
 -------------------
