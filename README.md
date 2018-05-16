@@ -8,6 +8,7 @@ Setup
 2.Setup REFLO
 -------------------
 * **[Assemble guide](https://github.com/magicboxlabs/REFLO/blob/master/Documents/Assembly.pdf)** - Setup each modules
+* **[Connect to the earth terminal](https://github.com/magicboxlabs/REFLO/blob/master/Documents/How%20to%20connect%20to%20the%20earth%20terminal.pdf)** - Additional working guide
 * **[Warning](https://github.com/magicboxlabs/REFLO/blob/master/Documents/warning.pdf)** - Special Attention
 
 3.Setup Software
