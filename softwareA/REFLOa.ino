@@ -49,7 +49,7 @@ void loop() {
     int stir = Ftable[SQpnt]; 
     if(!stir) { SFan = 0; } else { Scnt++; if(Scnt > stir) { Scnt = 0; SFan = 1; } if(Scnt > 2) { SFan = 0; } }
   }
-  if(millis() - itime1 > 300) { itime1 = millis();   // 1sec timer control
+  if(millis() - itime1 > 1000) { itime1 = millis();   // 1sec timer control
     StatusLED(); 
     TCtemp = Rtemp(); Tdiff = SLIDER3 - TCtemp;
     if(Tdiff > 0) { SLIDER1 = 0; /*14;*/             SLIDER2 = min(abs(Tdiff)*12, 64); } // heating
