@@ -43,4 +43,5 @@ Reference
 * **[CrowdSupply REFLO](https://www.crowdsupply.com/magicbox/reflo)**
 * **[Hacksterio REFLO](https://www.hackster.io/magicbox/ble-reflow-oven-controller-reflo)**
 * **[Hacksterio SHAKEYs](https://www.hackster.io/ebaera/voice-controlled-shakeys)**
+* **[Hacksterio actual example](https://www.hackster.io/tka1988/baking-your-pcbs-with-super-compact-reflow-oven-388e2c)**
 
